@@ -42,9 +42,7 @@ const Testimonials = () => {
                   <span>University of Texas at Dallas, USA</span>
                 </div>
               </div>
-              <p>
-              Attending UT Dallas has been transformative. The diverse student body, cutting-edge research, and supportive faculty have greatly contributed to my growth.
-              </p>
+              <p>UT Dallas has been transformative. The diverse community, research, and faculty have greatly contributed to my growth.</p>
             </div>
           </li>
 
@@ -57,11 +55,7 @@ const Testimonials = () => {
                   <span>University of Texas at Dallas, USA</span>
                 </div>
               </div>
-              <p>
-                Choosing UTD was my best decision. The
-                university's strong connections and hands-on learning
-                experiences have prepared me well for the professional world.
-              </p>
+              <p>Choosing UTD was my best decision. The university’s connections and hands-on learning prepared me well for the professional world.</p>
             </div>
           </li>
 
