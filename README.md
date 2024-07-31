@@ -10,6 +10,8 @@
 
 ![image](https://github.com/user-attachments/assets/34b4a05e-878c-4393-982d-2ebf429ce09b)
 
+![image](https://github.com/user-attachments/assets/e46cd072-09b5-4383-83f5-1d45ef6f7507)
+
 ## Overview
 
 This React application showcases the University of Texas at Dallas, highlighting the programs offered, campus gallery, student testimonials, and a responsive contact us form. The entire website is designed to be fully responsive, ensuring a seamless experience across all devices.
