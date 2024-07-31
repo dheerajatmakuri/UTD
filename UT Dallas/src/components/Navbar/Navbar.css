@@ -86,9 +86,9 @@ nav ul li{
 
     .menu-icon{
         display: block;
-        width: 30px;
+        width: 20px;
         cursor: pointer;
-        font-size: medium;
+        font-size:medium;
     }
 
     .hide-mobile-menu{
@@ -96,5 +96,18 @@ nav ul li{
     }
 }
 
+
+@media (max-width: 1100px) {
+    
+    .nav{
+        padding-top: 15px;
+    }
+    .menu-icon{
+        display: block;
+        width: 20px;
+        cursor: pointer;
+        size: 10px;
+    }
+}
 
 
